@@ -1,5 +1,5 @@
-# ms-permission
+# ms-example-go
 Microservice to getting user information
 
 ## Run
-go run main.go -p local
+go run main.go -profile local
